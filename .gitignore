@@ -1,0 +1,40 @@
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Output files
+*.csv
+linkedin_profiles.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Chrome driver
+chromedriver.exe
+chromedriver
+*.exe
+
+# Test data
+test_profiles.txt
+sample_data/
+
