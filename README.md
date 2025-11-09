@@ -1,6 +1,6 @@
 # LinkedIn Profile Scraper
 
-## ⚠️ IMPORTANT WARNINGS
+##  IMPORTANT WARNINGS
 
 **This tool is for educational purposes only.**
 
@@ -11,14 +11,14 @@
 
 ## Features
 
-- ✅ Selenium-based web scraping with Chrome driver
-- ✅ Random user agent rotation
-- ✅ Proxy rotation support (residential proxies)
-- ✅ LinkedIn login automation
-- ✅ Manual login fallback option
-- ✅ Anti-detection measures (random delays, browser fingerprinting evasion)
-- ✅ CSV export of profile data
-- ✅ Extracts: Name, Headline, Location, About, Experience, Education, Skills, Connections
+-  Selenium-based web scraping with Chrome driver
+-  Random user agent rotation
+-  Proxy rotation support (residential proxies)
+-  LinkedIn login automation
+-  Manual login fallback option
+-  Anti-detection measures (random delays, browser fingerprinting evasion)
+-  CSV export of profile data
+-  Extracts: Name, Headline, Location, About, Experience, Education, Skills, Connections
 
 ## Installation
 
@@ -198,4 +198,5 @@ This is an educational project. Use at your own risk.
 ## License
 
 This project is for educational purposes only. Use responsibly and in compliance with all applicable laws and terms of service.
+
 
