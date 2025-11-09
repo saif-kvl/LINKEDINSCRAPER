@@ -160,7 +160,7 @@ def main():
     if scraped_data:
         df = pd.DataFrame(scraped_data)
         df.to_csv("linkedin_profiles.csv", index=False, encoding='utf-8-sig')
-        print(f"\n✅ CSV file created: linkedin_profiles.csv")
+        print(f"\n CSV file created: linkedin_profiles.csv")
         print(f"   Total profiles: {len(scraped_data)}")
         print(f"\nPreview:")
         print(df[['url', 'name', 'headline']].head(10).to_string())
@@ -170,4 +170,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
